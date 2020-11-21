@@ -1,0 +1,6 @@
+{
+    "editor.tokenColorCustomizations": {
+        "comments": "#00ff00"
+    },
+    "terminal.integrated.fontSize": 16
+}
